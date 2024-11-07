@@ -1,0 +1,3 @@
+mode	All	MS2	HMDB	KEGG	Annotated
+negative	9808	348	3762	3533	4651
+positive	9939	338	5571	4895	6350
